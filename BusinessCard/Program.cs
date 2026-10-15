@@ -14,7 +14,7 @@
             Console.WriteLine("Leukste olod:  Werkplekeren 1");
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("groetjes van Kerem");
+            Console.WriteLine("groetjes van Ali ");
             Console.ResetColor();
         }
     }
