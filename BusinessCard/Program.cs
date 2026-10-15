@@ -12,6 +12,10 @@
             Console.WriteLine("Opleiding:     Graduaat programmeertaal");
             Console.WriteLine("Klasgroup:     1PROb");
             Console.WriteLine("Leukste olod:  Werkplekeren 1");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("groetjes van Kerem");
+            Console.ResetColor();
         }
     }
 }
